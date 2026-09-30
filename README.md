@@ -24,6 +24,3 @@ class MudasirAhmed:
         "REST APIs",
         "Backend Development"
     ]
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mudassir-Ahmed-git/Mudassir-Ahmed-git.git/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</div>
