@@ -1,7 +1,6 @@
-M u d a s i r   A h m e d
-█ █ ░ █ █ ░ █   █ ░ █ █ ░
-█ ░ █ █ ░ █ █   ░ █ █ ░ █
-░ █ █ ░ █ █ ░   █ █ ░ █ █
+<div align="center">
+  <img src="./name-glitch.svg" alt="Mudasir Ahmed">
+</div>
 
 ###  Python Developer • Backend Engineer • API Builder
 
