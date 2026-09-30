@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="./name.svg" alt="Mudasir Ahmed">
-</div>
+M u d a s i r   A h m e d
+█ █ ░ █ █ ░ █   █ ░ █ █ ░
+█ ░ █ █ ░ █ █   ░ █ █ ░ █
+░ █ █ ░ █ █ ░   █ █ ░ █ █
 
 ###  Python Developer • Backend Engineer • API Builder
 
