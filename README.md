@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./name-glitch.svg" alt="Mudasir Ahmed">
+  <img src="./name-glitch.svg" alt="Mudasir Ahmed" width="500">
 </div>
 
 ###  Python Developer • Backend Engineer • API Builder
