@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey, I'm Mudasir Ahmed
 
-<!--
-**Mudassir-Ahmed-git/Mudassir-Ahmed-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Developer • ⚡ Backend Engineer • 🚀 API Builder
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer;Flask+%7C+FastAPI+Developer;Backend+%26+API+Enthusiast;Building+Clean+%26+Scalable+APIs" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+```python
+class MudasirAhmed:
+    name = "Mudasir Ahmed"
+    role = "Python Backend Developer"
+
+    skills = [
+        "Python",
+        "Flask",
+        "FastAPI",
+        "REST APIs",
+        "Backend Development"
+    ]
+
+    currently_building = "Cool things with Python 🚀"
+
+    motto = "Code. Build. Learn. Repeat. 🔥"
