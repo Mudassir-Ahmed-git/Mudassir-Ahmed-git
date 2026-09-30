@@ -25,5 +25,5 @@ class MudasirAhmed:
         "Backend Development"
     ]
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mudassir-ahmed-git/mudassir-ahmed-git/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <img src="https://raw.githubusercontent.com/Mudassir-Ahmed-git/Mudassir-Ahmed-git/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </div>
