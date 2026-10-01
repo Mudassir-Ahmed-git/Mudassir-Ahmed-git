@@ -2,7 +2,9 @@
 
 <img src="neon-name-blink.svg" alt="My name in neon lights" width="50%">
 
-**Python developer · Flask · FastAPI**
+<p style="font-family: 'JetBrains Mono', monospace;">
+  Python developer · Flask · FastAPI
+</p>
 
 </div>
 
