@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="neon-name.svg" alt="My name in neon lights" width="50%">
-
+<br/>
 **Python developer · Flask · FastAPI**
 
 </div>
