@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="neon-name.svg" alt="My name in neon lights" width="100%">
+<img src="neon-name.svg" alt="My name in neon lights" width="50%">
 
 **Python developer · Flask · FastAPI**
 
