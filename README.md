@@ -2,9 +2,9 @@
 
 <img src="neon-name-blink.svg" alt="My name in neon lights" width="50%">
 
-<p align="center" width="60%">
+<h2 align="center">
   <code>Python developer · Flask · FastAPI</code>
-</p>
+</h2>
 
 </div>
 
