@@ -1,26 +1,19 @@
 <div align="center">
-  <img src="./name-glitch.svg" alt="Mudasir Ahmed" width="500">
+
+<img src="neon-name.svg" alt="My name in neon lights" width="100%">
+
+**Python developer · Flask · FastAPI**
+
 </div>
-
-###  Python Developer • Backend Engineer • API Builder
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer;Flask+%7C+FastAPI+Developer;Backend+%26+API+Enthusiast;Building+Clean+%26+Scalable+APIs" alt="Typing SVG" />
-</p>
 
 ---
 
-## About Me
+### 🛠 Stack
 
-```python
-class MudasirAhmed:
-    name = "Mudasir Ahmed"
-    role = "Python Backend Developer"
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00f0ff)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00f0ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00f0ff)
 
-    skills = [
-        "Python",
-        "Flask",
-        "FastAPI",
-        "REST APIs",
-        "Backend Development"
-    ]
+### 📫 Contact
+
+[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [Email](mailto:you@example.com)
