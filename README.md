@@ -16,12 +16,6 @@
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00f0ff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00f0ff)
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Mudassir-Ahmed-git/Mudassir-Ahmed-git/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</div>
 
 ### Contact
 
