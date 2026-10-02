@@ -19,4 +19,4 @@
 
 ### Contact
 
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [Email](mailto:you@example.com)
+[LinkedIn](www.linkedin.com/in/mudasir-ahmed-7b22b3320) · [Email](MudasirAhmed55428@gmail.com)
